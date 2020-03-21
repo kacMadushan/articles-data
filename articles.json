@@ -1,6 +1,40 @@
-[
-    {
-        "id": "1",
-        "title": "Simple Articles one"
-    }
-]
+{
+    "posts": [
+        {
+            "id": "e6da7f38-ef11-4315-82e9-5f611a93df6b",
+            "title": "How to learn TypeScript effectively?",
+            "body": "TypeScript is notorious for its steep learning curve, especially to a programmer who doesn't have exposures or not familiar with Object - oriented Programming(OOP).Moreover, there are lots of exceptions to Javascript even you are familiar with OOP.",
+            "createdAt": 111
+        },
+        {
+            "id": "16e836af-db3e-4e05-b9cc-fafa09b1d3f1",
+            "title": "5 vscode extensions for react developers",
+            "body": "In this post we are going to learn about 5 vscode extensions for react developers that they must use. I personally uses these five extensions in day to day life. Which automatically increases productivity.",
+            "createdAt": 111
+        },
+        {
+            "id": "a2685510-c6d1-4c55-94ba-8ec41ab08b32",
+            "title": "Tips for Organizing React Projects",
+            "body": "React is a library that intentionally doesn't provide guidance about how to structure your project - and that can be really confusing for developers.",
+            "createdAt": 111
+        },
+        {
+            "id": "61b48dca-29d2-4367-a2f8-ef4523e5ebbc",
+            "title": "Top Front-End Development YouTube Channels",
+            "body": "There are a lot of coding YouTube channels out there for learning front-end development, but since there are so many, it's hard to know where to start. So, to help the confused, I've decided to list some of my favourite channels and write a short summary on why I enjoy watching them.",
+            "createdAt": 111
+        },
+        {
+            "id": "879f7572-6e46-4699-9de0-b608a851aaa2",
+            "title": "Why We Use Tailwind at ConvertKit",
+            "body": "When my coworker first introduced me to Tailwind (hi Mark), I had the same reaction as most people that hadn't used a utility-first CSS framework before. Why do we need this? If we're writing solid CSS everywhere, and all following the same patterns, conventions, and rules, and keeping our UI consistent across different teams, then we don't need a framework that pollutes our HTML with all these non-semantic class names.",
+            "createdAt": 111
+        },
+        {
+            "id": "202b0e26-f24c-4cd1-8b88-4a9e3b1ba63c",
+            "title": "How to make a html search datalist for Vue",
+            "body": "An example where I have use a datalist is on the search page. Another axample of this in action would look like this:",
+            "createdAt": 111
+        }
+    ]
+}
